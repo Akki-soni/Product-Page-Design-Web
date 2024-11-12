@@ -23,17 +23,16 @@
 
 ## 🚀 Features
 
-- ***Input any text to be converted into speech.***
-- ***Choose from different available voices (if supported by the browser).***
-- ***Adjust the speech rate (speed of the voice).***
-- ***Adjust the pitch (tone of the voice).***
-- ***Simple and intuitive interface.***
+- **Responsive Design**: Adjusts to different screen sizes, providing an optimal user experience across devices.
+- **Product Images**: Display with hover effects and responsive scaling.
+- **Product Information**: Clear presentation of product name, description, and pricing.
+- **Interactive Elements**: Dynamic functionality added using JavaScript for enhanced user interaction.
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Used for creating the structure of the webpage.
-- **CSS**: Used for styling the interface.
-- **JavaScript**: Used for logic and functionality, including speech synthesis.
+- **HTML5**: For creating the structure and content of the product page.
+- **CSS3**: For styling the page, making it visually appealing and responsive using Flexbox/Grid.
+- **JavaScript**: For adding interactivity, such as dynamic product image displays or buttons.
 
 ## 🚀 How to Use
 
