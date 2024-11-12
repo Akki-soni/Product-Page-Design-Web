@@ -37,32 +37,15 @@
 ## 🚀 How to Use
 
 - ***Open the `index.html` file in your browser.***
-- ***Type the text you want to convert into speech into the text input field.***
-- ***Adjust the voice rate and pitch sliders if necessary.***
-- ***Click on the **Speak** button to hear the text being spoken.***
-
-## 🚀 Example Code
-
-Here’s a basic example of the JavaScript functionality using the Web Speech API:
-
-```javascript
-const synth = window.speechSynthesis;
-const speakButton = document.getElementById('speak');
-const textInput = document.getElementById('text-input');
-
-speakButton.addEventListener('click', () => {
-  const utterance = new SpeechSynthesisUtterance(textInput.value);
-  synth.speak(utterance);
-});
-```
+- ***Check T-shirt According to your size and Click Buy Now***
 
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Text-to-Speech-Converter.git>
-cd Text-to-Speech-Converter
+git clone <>
+cd Product-page-design-web
 open index.html
 ```
 
@@ -102,7 +85,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/imageslogoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You &#10084;
