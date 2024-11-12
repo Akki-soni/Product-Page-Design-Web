@@ -44,7 +44,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <>
+git clone <https://github.com/Akki-soni/Product-Page-Design-Web.git>
 cd Product-page-design-web
 open index.html
 ```
