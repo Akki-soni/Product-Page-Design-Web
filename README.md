@@ -59,7 +59,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Password-toggle Screenshot](/images/T-S_Screenshot.png)
+![Password-toggle Screenshot](/images/P-P-D_Screenshot.png)
 
 ## 🔗 Live Demo
 
